@@ -1,0 +1,96 @@
+:: StoryTitle
+Tudor England CYOA
+
+
+:: StoryData
+{
+  "ifid": "84E4630E-443F-414C-BCF1-87FFC8C0E199",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Marriage",
+  "zoom": 1
+}
+
+
+:: Catherine of Aragon {"position":"650,300","size":"100,100"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon%2C_Queen_of_England_in_her_youth.jpg/171px-Catherine_of_Aragon%2C_Queen_of_England_in_her_youth.jpg">
+(background: gray)[You are wedded to Catherine of Aragon, and your marriage is a happy one- for a time. Catherine fails to bear you a son, and you find yourself seeing other women behind her back. This relationship is no longer politically viable or emotionally healthy, but the Pope refuses to grant you an anullment. Will you divorce her anyways?]
+<p>The case for [[divorce]]: you will find it much easier, you hope, to procure an heir, and rid yourself of the burden of Church law.<p>
+<p>The case for [[remaining together]]: if you get divorced, you will likely be excommunicated from the Catholic Church, requiring you to convince your long-Catholic nation to follow you into schism, no easy task.<p>
+
+
+
+:: Eleanor of Austria {"position":"775,300","size":"100,100"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Joos_van_Cleve_003.jpg/195px-Joos_van_Cleve_003.jpg">
+<p>Eleanor bears you a son and the two of you have a long and happy marriage. You die in old age having reigned for decades over a period of peace and prosperity and your son takes your place.<p>
+
+
+:: Marriage {"position":"650,175","size":"100,100"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg/171px-Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg">
+(text-color: red)[You are King Henry VIII, infamous king of Tudor England. Having recently taken the throne, it is now your responsibility to find a suitable wife with whom to continue your line. Two of your most suitable options are Catherine of Aragon and Eleanor of Austria.]
+(text-style: "bold")[The case for [[Catherine of Aragon]]: It was your predecessor's dying wish that you marry, and a marriage between the two of you would bring about a strong alliance with Spain.]
+<p>The case for [[Eleanor of Austria]]: You have already received overtures from the Holy Roman Empire to marry her, and she is younger than Catherine.<p>
+
+
+
+
+
+
+:: dealing with the Scots {"position":"650,800","size":"100,100"}
+<p>Well the Scottish situation isn't perfect, but thanks to your military intervention they don't seem to pose a serious threat either. Now are you sure you want to invade France- your German allies seem a little fickle.<p>
+<p>The case for [[going ahead with the war]]: A man is nothing without his word, and you said you'd do it. Besides theres a chance for glory and territorial expansion.<p>
+<p>The case for [[quitting while you're ahead]]: Why waste time, money, and the lives of your men. Don't you have enough?<p>
+
+
+:: dissolving the monasteries {"position":"650,550","size":"100,100"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Anne_boleyn.jpg/183px-Anne_boleyn.jpg">
+<p>Now that your power is consolidated, you're free to marry as many times as necessary! You decide to marry Anne Boleyn, but before long you realize there's a familiar problem- she too is not bearing any sons! Should you execute her?<p>
+<p>The case for [[executing Anne Boleyn]]: she isn't bearing you any sons, but another divorce so soon after the last would be unseemly.<p>
+<p>The case for [[letting her live]]: it just seems a little cruel to have someone killed for something that isn't under their control, especially if she's your wife!<p>
+
+
+:: divorce {"position":"650,425","size":"100,100"}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tintern_Abbey_and_Courtyard.jpg/320px-Tintern_Abbey_and_Courtyard.jpg">
+<p>As expected, you are no longer a member in good standing of the Catholic Church. As a result, you'll have to make your own Church of England, with yourself as the highest authority. The question is now what to do with it! Should you dissolve the monasteries and enforce your own brand of Christianity, or leave the Catholics be?<p>
+<p>The case for [[dissolving the monasteries]]: you can't have a demographic within your country that retains a dual loyalty to Rome as well as to your rule, its a potential fifth column and besides, you look weak by tolerating other religions.<p>
+<p>The case for [[leaving them be]]: you've made your point in leaving the church, no reason to cause more issues is there?<p>
+
+
+:: doing nothing {"position":"650,1050","size":"100,100"}
+<p>Death at age 55 in 1547.<p>
+
+
+:: eating oranges {"position":"775,1050","size":"100,100"}
+<p>Death at age 56 in 1548.<p>
+
+
+:: executing Anne Boleyn {"position":"650,675","size":"100,100"}
+<p>Guess you'll have to keep trying with other wives. In the meantime, you've been considering getting militarily involved on the continent again, in Italy and in France. Just to your north, in Scotland however, you have a few potential adversaries. Should you deal with them first, or hop across the Channel right away?<p>
+<p>The case for [[dealing with the Scots]]: the Channel is a reliable natural barrier against continental invaders, but the land border with Scotland is more sensitive- better not to take any risks.<p>
+<p>The case for [[ignoring Scotland]]: why bother spending so much money subduing a region that isn't a part of your military endgame? I'm sure it will be fine.<p>
+
+
+:: going ahead with the war {"position":"650,925","size":"100,100"}
+<p>The war ends in a stalemate, but you find yourself in old age and deteriorating health. What will you do to try and prolong your life?<p>
+<p>The case for [[doing nothing]], despite having gout, a chronic wound, scurvy, syphilis, and being morbidly obese: it's probably fine<p>
+<p>The case for [[eating oranges]]: it will probably help with the scurvy
+
+
+:: ignoring Scotland {"position":"775,800","size":"100,100"}
+<p>The Scots join the war on behalf of your continental adversaries and England is stuck fighting a losing war on two fronts. London falls and you die.<p>
+
+
+:: leaving them be {"position":"775,550","size":"100,100"}
+<p>A Papist fifth column in your country is organized to overthrow your rule. You are executed and replaced with a more pious relative.<p>
+
+
+:: letting her live {"position":"775,675","size":"100,100"}
+<p>A short while later, Anne does finally give birth to a son! You never tell her you considered having her executed, and the two of you live a long and happy life. Your son takes your place when you die at a ripe old age.
+
+
+:: quitting while you're ahead {"position":"775,925","size":"100,100"}
+<p>You live to a ripe old age, but you are forgotten by history.<p>
+
+
+:: remaining together {"position":"775,425","size":"100,100"}
+<p>Despite your rocky first years of marriage, the two of you decide to keep trying to make things work and before long, Catherine bears you a son! The two of you live happily into old age and your son succeeds you after your death.<p>
